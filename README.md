@@ -214,6 +214,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Let me know if you’d like further customization or additional sections! 😊
-
----
-Answer from Perplexity: pplx.ai/share
