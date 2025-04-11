@@ -1,7 +1,3 @@
-Here’s a complete and polished README for your **ResNet18 ONNX Inference in C++** project:
-
----
-
 # **ResNet18 ONNX Inference in C++**
 
 This project demonstrates how to load and run inference with a ResNet18 ONNX model in C++ using ONNX Runtime. It includes image preprocessing using OpenCV and outputs the top-5 predictions with their probabilities.
